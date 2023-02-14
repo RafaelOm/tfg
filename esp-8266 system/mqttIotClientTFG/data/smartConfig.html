@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <!--=============== CSS ===============-->
+    <link rel="stylesheet" href="style.css">
+
+
+    <title>Configuracion Inicial</title>
+</head>
+
+<body>
+   
+    <main class="main">
+
+
+        <!--==================== CREATE NEWS ====================-->
+        <section class="section category">
+  
+            <h1 id="conexionRed" class="section__title">Intentando conectar con la red</h1>
+            <br>
+            <h2 id="tituloPagina" class="section__title">Revise los leds de control</h2>
+
+           
+        </section>
+
+        <script>
+          
+
+window.addEventListener('load', async (e) => {
+    var myHeaders = new Headers();
+
+    var formdata = new FormData();
+    var requestOptions = {
+        method: 'GET',
+        redirect: 'follow'
+    };
+
+    fetch("/getWifiAvaliable", requestOptions)
+        .then(function (response){
+            return response.json();
+        })
+        .then(function (data){
+            let html='';
+          
+            data.forEach(function (wifi){
+                html +=`
+                <option value="${wifi}">${wifi}</option>
+                `;
+            })
+            document.getElementById('ssid').innerHTML =html;
+        })
+        .catch(error => console.log('error', error));
+
+
+});
+        </script>
+
+
+
+
+</body>
+
+</html>

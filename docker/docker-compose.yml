@@ -1,0 +1,31 @@
+version: '3.8'
+services:
+  mqtt:
+    container_name: mosquitto_mqtt
+    image: eclipse-mosquitto:1.6
+    restart: always
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+    volumes:
+    - ./mosquitto/config:/mosquitto/config
+    - ./mosquitto/log:/mosquitto/log
+    - ./mosquitto/data:/mosquitto/data
+
+  springserver:
+    container_name: web_server
+    image: rafaelom/tfgjunio
+    restart: always
+    ports: 
+      - "8080:8080"
+    environment:
+      mqttUrl: mqtt
+  
+  client_website: 
+    container_name: client_website
+    image: nginx
+    volumes:
+    - ./clienteJs:/usr/share/nginx/html
+    restart: always
+    ports:
+      - "80:80"

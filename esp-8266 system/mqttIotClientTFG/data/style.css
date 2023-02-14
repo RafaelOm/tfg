@@ -1,0 +1,189 @@
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+ 
+
+  /*========== Colors ==========*/
+  --hue: 14;
+  --title-color: hsl(var(--hue), 4%, 100%);
+
+  /*Green gradient*/
+  --main-bg-color: #548CFF;
+
+  /*========== Font and typography ==========*/
+  --body-font: 'Poppins', sans-serif;
+  --h1-font-size: 2rem;
+  --h2-font-size: 1.25rem;
+}
+
+
+
+/*=============== BASE ===============*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  background: var(--main-bg-color);
+  color: var(--text-color);
+}
+
+h1,
+h2 {
+  color: var(--title-color);
+  font-weight: var(--font-semi-bold);
+}
+
+
+button,
+input {
+  border: none;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+}
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+.section {
+  padding: 2rem 0 2rem;
+}
+
+.section__title {
+  font-size: var(--h1-font-size);
+  margin-bottom: var(--mb-2);
+  text-align: center;
+}
+
+/*=============== LAYOUT ===============*/
+.container {
+  max-width: 968px;
+  margin-left: var(--mb-1-5);
+  margin-right: var(--mb-1-5);
+}
+
+
+/*==========CREATE NEWS==========*/
+.submit {
+  font-family: var(--body-font);
+  background-color: transparent;
+  color: var(--title-color);
+  border: 2px solid;
+  background-color: transparent;
+  border-radius: 3rem;
+  padding: 0.75rem 1.5rem;
+  margin-top: 2rem;
+  margin-left: 20%;
+}
+.submit:hover {
+  cursor: pointer;
+}
+
+.input-box {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-box input:focus {
+  border: 2px solid hsl(0, 0%, 7%);
+}
+
+.input-box input {
+  font-family: var(--body-font);
+  background-color: rgb(246, 246, 246);
+  height: 5vh;
+  width: 60%;
+  outline: none;
+  border: none;
+  padding: 0 10px;
+  font-size: 16px;
+  font-weight: 500;
+  border: 2px solid hsl(0, 0%, 97%);
+  transition: all 0.3s ease;
+  border-radius: 5px;
+}
+.input-box select {
+  font-family: var(--body-font);
+  background-color: rgb(246, 246, 246);
+  height: 5vh;
+  width: 60%;
+  outline: none;
+  border: none;
+  padding: 0 10px;
+  font-size: 16px;
+  font-weight: 500;
+  border: 2px solid hsl(0, 0%, 97%);
+  transition: all 0.3s ease;
+  border-radius: 5px;
+}
+
+.input-box a {
+  color: white;
+}
+
+
+.bodyTitle {
+  margin-top: 2.5rem;
+  margin-left: 20%;
+}
+.bodyTitle a {
+  color: white;
+}
+
+.input-text a {
+  color: white;
+}
+#cover {
+  padding-right: 10%;
+}
+
+#conexionRed{
+  margin-top:20%;
+}
+input:disabled{
+  background-color:#adb2ba;
+}
+
+
+/*===============  BREAKPOINTS ===============*/
+/* For small devices */
+@media screen and (max-width: 320px) {
+  .container {
+    margin-left: var(--mb-1);
+    margin-right: var(--mb-1);
+  }
+
+}
+
+@media screen and (min-width: 767px) {
+  body {
+    margin: 0;
+  }
+
+  .section {
+    padding: 7rem 0 2rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+}

@@ -1,0 +1,774 @@
+1651645017: mosquitto version 1.6.15 starting
+1651645017: Config loaded from /mosquitto/config/mosquitto.conf.
+1651645017: Opening ipv4 listen socket on port 1883.
+1651645017: Opening ipv6 listen socket on port 1883.
+1651645017: mosquitto version 1.6.15 running
+1651645039: mosquitto version 1.6.15 terminating
+1651645039: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1651645055: mosquitto version 1.6.15 starting
+1651645055: Config loaded from /mosquitto/config/mosquitto.conf.
+1651645055: Opening ipv4 listen socket on port 1883.
+1651645055: Opening ipv6 listen socket on port 1883.
+1651645055: mosquitto version 1.6.15 running
+1651645128: New connection from 172.23.0.1 on port 1883.
+1651645128: New client connected from 172.23.0.1 as 33a1cabf3ed142f1b4b36de2b6c704e8 (p2, c1, k60).
+1651645305: mosquitto version 1.6.15 terminating
+1651645305: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1651645400: mosquitto version 1.6.15 starting
+1651645400: Config loaded from /mosquitto/config/mosquitto.conf.
+1651645400: Opening ipv4 listen socket on port 1883.
+1651645400: Opening ipv6 listen socket on port 1883.
+1651645400: mosquitto version 1.6.15 running
+1651645407: New connection from 172.24.0.2 on port 1883.
+1651645407: New client connected from 172.24.0.2 as serverIn (p2, c1, k60).
+1651645417: New connection from 172.24.0.1 on port 1883.
+1651645417: New client connected from 172.24.0.1 as 33a1cabf3ed142f1b4b36de2b6c704e8 (p2, c1, k60).
+1651647130: New connection from 172.24.0.1 on port 1883.
+1651647130: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1651647194: New connection from 172.24.0.1 on port 1883.
+1651647194: New client connected from 172.24.0.1 as Movil (p2, c0, k1200).
+1651647201: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1651647220: New connection from 172.24.0.2 on port 1883.
+1651647220: New client connected from 172.24.0.2 as serverOut (p2, c1, k60).
+1651647227: New connection from 172.24.0.1 on port 1883.
+1651647227: Client TFG_12669669 already connected, closing old connection.
+1651647227: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1651647546: Socket error on client Movil, disconnecting.
+1651647546: Socket error on client TFG_12669669, disconnecting.
+1651648515: mosquitto version 1.6.15 terminating
+1651648515: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1651669862: mosquitto version 1.6.15 starting
+1651669862: Config loaded from /mosquitto/config/mosquitto.conf.
+1651669862: Opening ipv4 listen socket on port 1883.
+1651669862: Opening ipv6 listen socket on port 1883.
+1651669862: mosquitto version 1.6.15 running
+1651669873: New connection from 172.24.0.3 on port 1883.
+1651669873: New client connected from 172.24.0.3 as serverIn (p2, c1, k60).
+1651669902: mosquitto version 1.6.15 terminating
+1651669902: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1651670046: mosquitto version 1.6.15 starting
+1651670046: Config loaded from /mosquitto/config/mosquitto.conf.
+1651670046: Opening ipv4 listen socket on port 1883.
+1651670046: Opening ipv6 listen socket on port 1883.
+1651670046: mosquitto version 1.6.15 running
+1651670053: New connection from 172.22.0.2 on port 1883.
+1651670053: New client connected from 172.22.0.2 as serverIn (p2, c1, k60).
+1651670132: mosquitto version 1.6.15 terminating
+1651670132: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1651670143: mosquitto version 1.6.15 starting
+1651670143: Config loaded from /mosquitto/config/mosquitto.conf.
+1651670143: Opening ipv4 listen socket on port 1883.
+1651670143: Opening ipv6 listen socket on port 1883.
+1651670143: mosquitto version 1.6.15 running
+1651670152: New connection from 172.22.0.2 on port 1883.
+1651670153: New client connected from 172.22.0.2 as serverIn (p2, c1, k60).
+1651671924: mosquitto version 1.6.15 terminating
+1651671924: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1651671937: mosquitto version 1.6.15 starting
+1651671937: Config loaded from /mosquitto/config/mosquitto.conf.
+1651671937: Opening ipv4 listen socket on port 1883.
+1651671937: Opening ipv6 listen socket on port 1883.
+1651671937: mosquitto version 1.6.15 running
+1651671946: New connection from 172.23.0.2 on port 1883.
+1651671947: New client connected from 172.23.0.2 as serverIn (p2, c1, k60).
+1651672009: New connection from 172.23.0.1 on port 1883.
+1651672009: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1651672037: Client TFG_12669669 has exceeded timeout, disconnecting.
+1651672097: New connection from 172.23.0.1 on port 1883.
+1651672097: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1651672128: New connection from 172.23.0.2 on port 1883.
+1651672128: New client connected from 172.23.0.2 as serverOut (p2, c1, k60).
+1651672137: New connection from 172.23.0.1 on port 1883.
+1651672137: Client TFG_12669669 already connected, closing old connection.
+1651672137: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1651672211: Socket error on client TFG_12669669, disconnecting.
+1651693383: mosquitto version 1.6.15 starting
+1651693383: Config loaded from /mosquitto/config/mosquitto.conf.
+1651693383: Opening ipv4 listen socket on port 1883.
+1651693383: Opening ipv6 listen socket on port 1883.
+1651693383: mosquitto version 1.6.15 running
+1651693390: New connection from 172.23.0.1 on port 1883.
+1651693390: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1651693399: New connection from 172.23.0.3 on port 1883.
+1651693400: New client connected from 172.23.0.3 as serverIn (p2, c1, k60).
+1651693489: mosquitto version 1.6.15 terminating
+1651693489: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1651693500: mosquitto version 1.6.15 starting
+1651693500: Config loaded from /mosquitto/config/mosquitto.conf.
+1651693500: Opening ipv4 listen socket on port 1883.
+1651693500: Opening ipv6 listen socket on port 1883.
+1651693500: mosquitto version 1.6.15 running
+1651693507: New connection from 172.22.0.2 on port 1883.
+1651693507: New client connected from 172.22.0.2 as serverIn (p2, c1, k60).
+1651693509: New connection from 172.22.0.1 on port 1883.
+1651693509: New client connected from 172.22.0.1 as TFG_12669669 (p2, c1, k15).
+1651693926: Client TFG_12669669 has exceeded timeout, disconnecting.
+1651694072: New connection from 172.22.0.1 on port 1883.
+1651694072: New client connected from 172.22.0.1 as TFG_12669669 (p2, c1, k15).
+1652005825: mosquitto version 1.6.15 starting
+1652005825: Config loaded from /mosquitto/config/mosquitto.conf.
+1652005825: Opening ipv4 listen socket on port 1883.
+1652005825: Opening ipv6 listen socket on port 1883.
+1652005825: mosquitto version 1.6.15 running
+1652005834: New connection from 172.22.0.4 on port 1883.
+1652005835: New client connected from 172.22.0.4 as serverIn (p2, c1, k60).
+1652005852: mosquitto version 1.6.15 terminating
+1652005852: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652005920: mosquitto version 1.6.15 starting
+1652005920: Config loaded from /mosquitto/config/mosquitto.conf.
+1652005920: Opening ipv4 listen socket on port 1883.
+1652005920: Opening ipv6 listen socket on port 1883.
+1652005920: mosquitto version 1.6.15 running
+1652005927: New connection from 172.23.0.4 on port 1883.
+1652005928: New client connected from 172.23.0.4 as serverIn (p2, c1, k60).
+1652007721: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652008721: mosquitto version 1.6.15 terminating
+1652008721: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652013555: mosquitto version 1.6.15 starting
+1652013555: Config loaded from /mosquitto/config/mosquitto.conf.
+1652013555: Opening ipv4 listen socket on port 1883.
+1652013555: Opening ipv6 listen socket on port 1883.
+1652013555: mosquitto version 1.6.15 running
+1652013569: New connection from 172.23.0.2 on port 1883.
+1652013570: New client connected from 172.23.0.2 as serverIn (p2, c1, k60).
+1652019595: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652021396: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652117235: mosquitto version 1.6.15 starting
+1652117235: Config loaded from /mosquitto/config/mosquitto.conf.
+1652117235: Opening ipv4 listen socket on port 1883.
+1652117235: Opening ipv6 listen socket on port 1883.
+1652117235: mosquitto version 1.6.15 running
+1652117247: New connection from 172.23.0.3 on port 1883.
+1652117247: New client connected from 172.23.0.3 as serverIn (p2, c1, k60).
+1652117345: New connection from 172.23.0.1 on port 1883.
+1652117345: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652117398: New connection from 172.23.0.3 on port 1883.
+1652117398: New client connected from 172.23.0.3 as serverOut (p2, c1, k60).
+1652117405: New connection from 172.23.0.1 on port 1883.
+1652117405: Client TFG_12669669 already connected, closing old connection.
+1652117405: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652118521: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652118594: New connection from 172.23.0.1 on port 1883.
+1652118594: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652118704: New connection from 172.23.0.1 on port 1883.
+1652118704: Client TFG_12669669 already connected, closing old connection.
+1652118704: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652118839: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652118915: New connection from 172.23.0.1 on port 1883.
+1652118915: New client connected from 172.23.0.1 as TFG_3329101 (p2, c1, k15).
+1652118942: Socket error on client TFG_3329101, disconnecting.
+1652118943: New connection from 172.23.0.1 on port 1883.
+1652118943: New client connected from 172.23.0.1 as TFG_3329101 (p2, c1, k15).
+1652119036: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652119046: New connection from 172.23.0.1 on port 1883.
+1652119046: New client connected from 172.23.0.1 as 33a1cabf3ed142f1b4b36de2b6c704e8 (p2, c1, k60).
+1652119667: New connection from 172.23.0.1 on port 1883.
+1652119667: Client TFG_3329101 already connected, closing old connection.
+1652119667: New client connected from 172.23.0.1 as TFG_3329101 (p2, c1, k15).
+1652120837: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652122638: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652124439: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652125896: Socket error on client 33a1cabf3ed142f1b4b36de2b6c704e8, disconnecting.
+1652126240: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652126667: New connection from 172.23.0.1 on port 1883.
+1652126667: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652126770: New connection from 172.23.0.1 on port 1883.
+1652126770: Client TFG_12669669 already connected, closing old connection.
+1652126770: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652128041: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652128972: mosquitto version 1.6.15 terminating
+1652128972: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652128986: mosquitto version 1.6.15 starting
+1652128986: Config loaded from /mosquitto/config/mosquitto.conf.
+1652128986: Opening ipv4 listen socket on port 1883.
+1652128986: Opening ipv6 listen socket on port 1883.
+1652128986: mosquitto version 1.6.15 running
+1652128987: New connection from 172.23.0.1 on port 1883.
+1652128987: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652128993: New connection from 172.23.0.1 on port 1883.
+1652128993: New client connected from 172.23.0.1 as TFG_3329101 (p2, c1, k15).
+1652128994: New connection from 172.23.0.2 on port 1883.
+1652128994: New client connected from 172.23.0.2 as serverIn (p2, c1, k60).
+1652129212: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652129242: New connection from 172.23.0.1 on port 1883.
+1652129242: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652129257: New connection from 172.23.0.2 on port 1883.
+1652129257: New client connected from 172.23.0.2 as serverOut (p2, c1, k60).
+1652129264: New connection from 172.23.0.1 on port 1883.
+1652129264: Client TFG_12669669 already connected, closing old connection.
+1652129264: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652129661: New connection from 172.23.0.1 on port 1883.
+1652129661: Client TFG_12669669 already connected, closing old connection.
+1652129661: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652129743: Client TFG_3329101 has exceeded timeout, disconnecting.
+1652129772: New connection from 172.23.0.1 on port 1883.
+1652129772: Client TFG_12669669 already connected, closing old connection.
+1652129772: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652129777: New connection from 172.23.0.1 on port 1883.
+1652129777: New client connected from 172.23.0.1 as TFG_3329101 (p2, c1, k15).
+1652129827: New connection from 172.23.0.1 on port 1883.
+1652129827: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1652129885: New connection from 172.23.0.1 on port 1883.
+1652129885: Client TFG_8190270 already connected, closing old connection.
+1652129885: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1652129985: New connection from 172.23.0.1 on port 1883.
+1652129985: New client connected from 172.23.0.1 as 33a1cabf3ed142f1b4b36de2b6c704e8 (p2, c1, k60).
+1652130603: Client serverIn disconnected.
+1652130608: Client serverOut disconnected.
+1652130709: New connection from 172.23.0.1 on port 1883.
+1652130709: New client connected from 172.23.0.1 as serverIn (p2, c1, k60).
+1652130717: New connection from 172.23.0.1 on port 1883.
+1652130718: New client connected from 172.23.0.1 as serverOut (p2, c1, k60).
+1652130787: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652130920: Client serverIn disconnected.
+1652130925: Client serverOut disconnected.
+1652131945: Socket error on client 33a1cabf3ed142f1b4b36de2b6c704e8, disconnecting.
+1652131969: Socket error on client TFG_12669669, disconnecting.
+1652131969: Socket error on client TFG_3329101, disconnecting.
+1652131969: Socket error on client TFG_8190270, disconnecting.
+1652251239: mosquitto version 1.6.15 starting
+1652251239: Config loaded from /mosquitto/config/mosquitto.conf.
+1652251239: Opening ipv4 listen socket on port 1883.
+1652251239: Opening ipv6 listen socket on port 1883.
+1652251239: mosquitto version 1.6.15 running
+1652251243: New connection from 172.23.0.1 on port 1883.
+1652251243: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1652251243: New connection from 172.23.0.1 on port 1883.
+1652251243: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652251252: New connection from 172.23.0.4 on port 1883.
+1652251252: New client connected from 172.23.0.4 as serverIn (p2, c1, k60).
+1652251252: Client serverIn disconnected.
+1652251257: New connection from 172.23.0.1 on port 1883.
+1652251257: New client connected from 172.23.0.1 as Movil (p2, c0, k1200).
+1652251282: New connection from 172.23.0.1 on port 1883.
+1652251282: New client connected from 172.23.0.1 as serverIn (p2, c1, k60).
+1652251300: New connection from 172.23.0.1 on port 1883.
+1652251300: New client connected from 172.23.0.1 as serverOut (p2, c1, k60).
+1652251307: New connection from 172.23.0.1 on port 1883.
+1652251307: Client TFG_12669669 already connected, closing old connection.
+1652251307: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652253039: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652253061: New connection from 172.23.0.1 on port 1883.
+1652253061: Client TFG_12669669 already connected, closing old connection.
+1652253061: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652253651: Socket error on client Movil, disconnecting.
+1652254318: Client TFG_8190270 has exceeded timeout, disconnecting.
+1652261872: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652261913: Socket error on client serverOut, disconnecting.
+1652261913: Socket error on client serverIn, disconnecting.
+1652261923: New connection from 172.23.0.1 on port 1883.
+1652261924: New client connected from 172.23.0.1 as serverIn (p2, c1, k60).
+1652262393: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652263930: mosquitto version 1.6.15 terminating
+1652263930: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652264016: mosquitto version 1.6.15 starting
+1652264016: Config loaded from /mosquitto/config/mosquitto.conf.
+1652264016: Opening ipv4 listen socket on port 1883.
+1652264016: Opening ipv6 listen socket on port 1883.
+1652264016: mosquitto version 1.6.15 running
+1652264022: New connection from 172.23.0.2 on port 1883.
+1652264023: New client connected from 172.23.0.2 as serverIn (p2, c1, k60).
+1652264054: New connection from 172.23.0.1 on port 1883.
+1652264054: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1652264124: New connection from 172.23.0.1 on port 1883.
+1652264124: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652264148: New connection from 172.23.0.2 on port 1883.
+1652264148: New client connected from 172.23.0.2 as serverOut (p2, c1, k60).
+1652264155: New connection from 172.23.0.1 on port 1883.
+1652264155: Client TFG_12669669 already connected, closing old connection.
+1652264155: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1652264747: mosquitto version 1.6.15 terminating
+1652264747: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652264819: mosquitto version 1.6.15 starting
+1652264819: Config loaded from /mosquitto/config/mosquitto.conf.
+1652264819: Opening ipv4 listen socket on port 1883.
+1652264819: Opening ipv6 listen socket on port 1883.
+1652264819: mosquitto version 1.6.15 running
+1652264822: New connection from 172.24.0.1 on port 1883.
+1652264822: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652264822: New connection from 172.24.0.1 on port 1883.
+1652264822: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652264825: New connection from 172.24.0.3 on port 1883.
+1652264826: New client connected from 172.24.0.3 as serverIn (p2, c1, k60).
+1652264846: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652264865: New connection from 172.24.0.1 on port 1883.
+1652264865: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652264873: New connection from 172.24.0.3 on port 1883.
+1652264873: New client connected from 172.24.0.3 as serverOut (p2, c1, k60).
+1652264879: New connection from 172.24.0.1 on port 1883.
+1652264879: Client TFG_12669669 already connected, closing old connection.
+1652264879: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652264928: Socket error on client TFG_8190270, disconnecting.
+1652264928: New connection from 172.24.0.1 on port 1883.
+1652264928: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652264956: New connection from 172.24.0.1 on port 1883.
+1652264956: Client TFG_8190270 already connected, closing old connection.
+1652264956: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652264974: New connection from 172.24.0.1 on port 1883.
+1652264974: Client TFG_8190270 already connected, closing old connection.
+1652264974: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652264993: New connection from 172.24.0.1 on port 1883.
+1652264993: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652265012: Client TFG_8190270 has exceeded timeout, disconnecting.
+1652265044: New connection from 172.24.0.1 on port 1883.
+1652265044: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652265072: New connection from 172.24.0.1 on port 1883.
+1652265072: Client TFG_8190270 already connected, closing old connection.
+1652265072: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652265131: mosquitto version 1.6.15 terminating
+1652265131: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652265346: mosquitto version 1.6.15 starting
+1652265346: Config loaded from /mosquitto/config/mosquitto.conf.
+1652265346: Opening ipv4 listen socket on port 1883.
+1652265346: Opening ipv6 listen socket on port 1883.
+1652265346: mosquitto version 1.6.15 running
+1652265346: New connection from 172.24.0.1 on port 1883.
+1652265346: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652265347: New connection from 172.24.0.1 on port 1883.
+1652265347: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652265347: New connection from 172.24.0.1 on port 1883.
+1652265347: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652265408: New connection from 172.24.0.1 on port 1883.
+1652265408: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652265421: New connection from 172.24.0.1 on port 1883.
+1652265422: New client connected from 172.24.0.1 as serverOut (p2, c1, k60).
+1652265489: Client TFG_8190270 has exceeded timeout, disconnecting.
+1652265535: New connection from 172.24.0.1 on port 1883.
+1652265535: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652265882: New connection from 172.24.0.1 on port 1883.
+1652265882: Client TFG_8190270 already connected, closing old connection.
+1652265882: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652266222: Client serverIn disconnected.
+1652266227: Client serverOut disconnected.
+1652266319: New connection from 172.24.0.1 on port 1883.
+1652266319: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652266347: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652266367: New connection from 172.24.0.1 on port 1883.
+1652266367: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652266372: New connection from 172.24.0.1 on port 1883.
+1652266372: New client connected from 172.24.0.1 as serverOut (p2, c1, k60).
+1652266379: New connection from 172.24.0.1 on port 1883.
+1652266379: Client TFG_12669669 already connected, closing old connection.
+1652266379: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652266385: Client TFG_8190270 has exceeded timeout, disconnecting.
+1652266735: New connection from 172.24.0.1 on port 1883.
+1652266735: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652266769: New connection from 172.24.0.1 on port 1883.
+1652266769: Client TFG_8190270 already connected, closing old connection.
+1652266769: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652266821: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652266866: New connection from 172.24.0.1 on port 1883.
+1652266866: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652266876: New connection from 172.24.0.1 on port 1883.
+1652266876: Client TFG_12669669 already connected, closing old connection.
+1652266876: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652266912: Client TFG_8190270 has exceeded timeout, disconnecting.
+1652267002: New connection from 172.24.0.1 on port 1883.
+1652267002: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652267021: New connection from 172.24.0.1 on port 1883.
+1652267021: Client TFG_8190270 already connected, closing old connection.
+1652267021: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652267095: Client serverIn disconnected.
+1652267100: Client serverOut disconnected.
+1652267146: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652268947: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652269622: New connection from 172.24.0.1 on port 1883.
+1652269622: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652269623: Client serverIn disconnected.
+1652269650: New connection from 172.24.0.1 on port 1883.
+1652269651: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652269651: Client serverIn disconnected.
+1652269668: New connection from 172.24.0.1 on port 1883.
+1652269669: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652269680: Client serverIn disconnected.
+1652269698: New connection from 172.24.0.1 on port 1883.
+1652269698: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652270748: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652272549: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652274350: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652276151: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652277952: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652278915: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652279046: New connection from 172.24.0.1 on port 1883.
+1652279046: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652279053: New connection from 172.24.0.1 on port 1883.
+1652279053: New client connected from 172.24.0.1 as serverOut (p2, c1, k60).
+1652279060: New connection from 172.24.0.1 on port 1883.
+1652279060: Client TFG_12669669 already connected, closing old connection.
+1652279060: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652279135: Client TFG_8190270 has exceeded timeout, disconnecting.
+1652279234: New connection from 172.24.0.1 on port 1883.
+1652279234: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652279357: New connection from 172.24.0.1 on port 1883.
+1652279357: Client TFG_8190270 already connected, closing old connection.
+1652279357: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652279753: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652280477: Client serverIn disconnected.
+1652280482: Client serverOut disconnected.
+1652280490: New connection from 172.24.0.1 on port 1883.
+1652280490: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652280542: Client serverIn disconnected.
+1652280555: New connection from 172.24.0.1 on port 1883.
+1652280555: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652280831: Client serverIn disconnected.
+1652280844: New connection from 172.24.0.1 on port 1883.
+1652280844: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652280858: New connection from 172.24.0.1 on port 1883.
+1652280858: New client connected from 172.24.0.1 as serverOut (p2, c1, k60).
+1652280977: Client serverIn disconnected.
+1652280982: Client serverOut disconnected.
+1652280990: New connection from 172.24.0.1 on port 1883.
+1652280990: New client connected from 172.24.0.1 as serverIn (p2, c1, k60).
+1652281108: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652281249: New connection from 172.24.0.1 on port 1883.
+1652281249: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652281456: New connection from 172.24.0.1 on port 1883.
+1652281456: New client connected from 172.24.0.1 as serverOut (p2, c1, k60).
+1652281463: New connection from 172.24.0.1 on port 1883.
+1652281463: Client TFG_12669669 already connected, closing old connection.
+1652281463: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652281525: Client TFG_8190270 has exceeded timeout, disconnecting.
+1652281553: New connection from 172.24.0.1 on port 1883.
+1652281553: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652281554: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652281588: New connection from 172.24.0.1 on port 1883.
+1652281588: Client TFG_8190270 already connected, closing old connection.
+1652281588: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1652281791: New connection from 172.24.0.1 on port 1883.
+1652281791: Client TFG_3329101 already connected, closing old connection.
+1652281791: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652281834: Client TFG_3329101 has exceeded timeout, disconnecting.
+1652281838: New connection from 172.24.0.1 on port 1883.
+1652281838: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652281884: New connection from 172.24.0.1 on port 1883.
+1652281884: Client TFG_3329101 already connected, closing old connection.
+1652281884: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652281917: New connection from 172.24.0.1 on port 1883.
+1652281917: Client TFG_3329101 already connected, closing old connection.
+1652281917: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652281947: Client TFG_3329101 has exceeded timeout, disconnecting.
+1652281949: New connection from 172.24.0.1 on port 1883.
+1652281949: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652282035: New connection from 172.24.0.1 on port 1883.
+1652282035: Client TFG_12669669 already connected, closing old connection.
+1652282035: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1652282044: Client TFG_3329101 has exceeded timeout, disconnecting.
+1652282060: Client TFG_8190270 has exceeded timeout, disconnecting.
+1652282062: Client TFG_12669669 has exceeded timeout, disconnecting.
+1652283355: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652283597: New connection from 172.24.0.1 on port 1883.
+1652283597: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652283632: Client TFG_3329101 has exceeded timeout, disconnecting.
+1652283660: New connection from 172.24.0.1 on port 1883.
+1652283660: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652283683: Client TFG_3329101 has exceeded timeout, disconnecting.
+1652283739: New connection from 172.24.0.1 on port 1883.
+1652283739: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652283753: New connection from 172.24.0.1 on port 1883.
+1652283753: Client TFG_3329101 already connected, closing old connection.
+1652283753: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1652285156: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652286957: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652287493: Client TFG_3329101 has exceeded timeout, disconnecting.
+1652288758: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652289353: Client serverIn disconnected.
+1652289358: Client serverOut disconnected.
+1652290559: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652292360: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652294161: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652295962: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652297763: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652299564: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1652301365: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1653325260: mosquitto version 1.6.15 starting
+1653325260: Config loaded from /mosquitto/config/mosquitto.conf.
+1653325260: Opening ipv4 listen socket on port 1883.
+1653325260: Opening ipv6 listen socket on port 1883.
+1653325260: mosquitto version 1.6.15 running
+1653325274: New connection from 172.24.0.3 on port 1883.
+1653325274: New client connected from 172.24.0.3 as serverIn (p2, c1, k60).
+1653326075: New connection from 172.24.0.1 on port 1883.
+1653326075: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1653326076: New connection from 172.24.0.1 on port 1883.
+1653326076: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1653326120: Client TFG_12669669 has exceeded timeout, disconnecting.
+1653326145: New connection from 172.24.0.1 on port 1883.
+1653326145: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1653326153: New connection from 172.24.0.3 on port 1883.
+1653326153: New client connected from 172.24.0.3 as serverOut (p2, c1, k60).
+1653326160: New connection from 172.24.0.1 on port 1883.
+1653326160: Client TFG_12669669 already connected, closing old connection.
+1653326160: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1653326209: New connection from 172.24.0.1 on port 1883.
+1653326209: New client connected from 172.24.0.1 as 33a1cabf3ed142f1b4b36de2b6c704e8 (p2, c1, k60).
+1653327060: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1653328861: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1653330662: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1653332463: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1653334264: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1653336065: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1653337601: Socket error on client 33a1cabf3ed142f1b4b36de2b6c704e8, disconnecting.
+1653337614: Socket error on client TFG_12669669, disconnecting.
+1653337614: Socket error on client TFG_8190270, disconnecting.
+1654089719: mosquitto version 1.6.15 starting
+1654089719: Config loaded from /mosquitto/config/mosquitto.conf.
+1654089719: Opening ipv4 listen socket on port 1883.
+1654089719: Opening ipv6 listen socket on port 1883.
+1654089719: mosquitto version 1.6.15 running
+1654089726: New connection from 172.24.0.4 on port 1883.
+1654089727: New client connected from 172.24.0.4 as serverIn (p2, c1, k60).
+1654089802: mosquitto version 1.6.15 terminating
+1654089802: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654090470: mosquitto version 1.6.15 starting
+1654090470: Config loaded from /mosquitto/config/mosquitto.conf.
+1654090470: Opening ipv4 listen socket on port 1883.
+1654090470: Opening ipv6 listen socket on port 1883.
+1654090470: mosquitto version 1.6.15 running
+1654090475: New connection from 172.23.0.2 on port 1883.
+1654090476: New client connected from 172.23.0.2 as serverIn (p2, c1, k60).
+1654092270: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654094071: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654095872: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654097673: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654099474: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654101275: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654103076: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654104877: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654106678: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654108479: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654159999: mosquitto version 1.6.15 starting
+1654159999: Config loaded from /mosquitto/config/mosquitto.conf.
+1654159999: Opening ipv4 listen socket on port 1883.
+1654159999: Opening ipv6 listen socket on port 1883.
+1654159999: mosquitto version 1.6.15 running
+1654160010: New connection from 172.23.0.4 on port 1883.
+1654160010: New client connected from 172.23.0.4 as serverIn (p2, c1, k60).
+1654160101: New connection from 172.23.0.1 on port 1883.
+1654160101: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1654160107: New connection from 172.23.0.4 on port 1883.
+1654160108: New client connected from 172.23.0.4 as serverOut (p2, c1, k60).
+1654160113: New connection from 172.23.0.1 on port 1883.
+1654160113: Client TFG_12669669 already connected, closing old connection.
+1654160113: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1654161799: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654163600: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654165401: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654167202: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654169003: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654170804: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654172605: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654174406: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654176207: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654178008: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654179246: Socket error on client TFG_12669669, disconnecting.
+1654179249: New connection from 172.23.0.1 on port 1883.
+1654179249: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1654179809: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654181610: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654181990: New connection from 172.23.0.1 on port 1883.
+1654181990: Client TFG_8190270 already connected, closing old connection.
+1654181990: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1654182033: New connection from 172.23.0.1 on port 1883.
+1654182033: New client connected from 172.23.0.1 as TFG_3329101 (p2, c1, k15).
+1654182072: Client TFG_8190270 has exceeded timeout, disconnecting.
+1654182090: Socket error on client TFG_3329101, disconnecting.
+1654182094: New connection from 172.23.0.1 on port 1883.
+1654182094: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1654182171: New connection from 172.23.0.1 on port 1883.
+1654182171: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1654182191: New connection from 172.23.0.1 on port 1883.
+1654182191: Client TFG_8190270 already connected, closing old connection.
+1654182191: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1654182248: New connection from 172.23.0.1 on port 1883.
+1654182248: New client connected from 172.23.0.1 as 33a1cabf3ed142f1b4b36de2b6c704e8 (p2, c1, k60).
+1654182448: mosquitto version 1.6.15 terminating
+1654182448: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654182459: mosquitto version 1.6.15 starting
+1654182459: Config loaded from /mosquitto/config/mosquitto.conf.
+1654182459: Opening ipv4 listen socket on port 1883.
+1654182459: Opening ipv6 listen socket on port 1883.
+1654182459: mosquitto version 1.6.15 running
+1654182468: New connection from 172.23.0.2 on port 1883.
+1654182468: New client connected from 172.23.0.2 as serverIn (p2, c1, k60).
+1654182468: New connection from 172.23.0.1 on port 1883.
+1654182468: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1654182468: New connection from 172.23.0.1 on port 1883.
+1654182468: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1654182473: New connection from 172.23.0.2 on port 1883.
+1654182473: New client connected from 172.23.0.2 as serverOut (p2, c1, k60).
+1654182607: Socket error on client TFG_8190270, disconnecting.
+1654182607: Socket error on client TFG_12669669, disconnecting.
+1654283916: mosquitto version 1.6.15 starting
+1654283916: Config loaded from /mosquitto/config/mosquitto.conf.
+1654283916: Opening ipv4 listen socket on port 1883.
+1654283916: Opening ipv6 listen socket on port 1883.
+1654283916: mosquitto version 1.6.15 running
+1654283917: New connection from 172.23.0.1 on port 1883.
+1654283917: New connection from 172.23.0.1 on port 1883.
+1654283917: New client connected from 172.23.0.1 as TFG_12669669 (p2, c1, k15).
+1654283917: New client connected from 172.23.0.1 as TFG_8190270 (p2, c1, k15).
+1654283925: New connection from 172.23.0.4 on port 1883.
+1654283925: New client connected from 172.23.0.4 as serverIn (p2, c1, k60).
+1654284038: New connection from 172.23.0.4 on port 1883.
+1654284039: New client connected from 172.23.0.4 as serverOut (p2, c1, k60).
+1654284323: Socket error on client TFG_8190270, disconnecting.
+1654284323: Socket error on client TFG_12669669, disconnecting.
+1654284330: New connection from 172.23.0.1 on port 1883.
+1654284330: New client connected from 172.23.0.1 as TFG_3329101 (p2, c1, k15).
+1654284355: Client TFG_3329101 has exceeded timeout, disconnecting.
+1654416582: mosquitto version 1.6.15 starting
+1654416582: Config loaded from /mosquitto/config/mosquitto.conf.
+1654416582: Opening ipv4 listen socket on port 1883.
+1654416582: Opening ipv6 listen socket on port 1883.
+1654416582: mosquitto version 1.6.15 running
+1654416597: New connection from 172.23.0.2 on port 1883.
+1654416597: New client connected from 172.23.0.2 as serverIn (p2, c1, k60).
+1654418018: mosquitto version 1.6.15 terminating
+1654418018: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654418054: mosquitto version 1.6.15 starting
+1654418054: Config loaded from /mosquitto/config/mosquitto.conf.
+1654418054: Opening ipv4 listen socket on port 1883.
+1654418054: Opening ipv6 listen socket on port 1883.
+1654418054: mosquitto version 1.6.15 running
+1654418079: mosquitto version 1.6.15 terminating
+1654418079: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654418128: mosquitto version 1.6.15 starting
+1654418128: Config loaded from /mosquitto/config/mosquitto.conf.
+1654418128: Opening ipv4 listen socket on port 1883.
+1654418128: Opening ipv6 listen socket on port 1883.
+1654418128: mosquitto version 1.6.15 running
+1654418135: New connection from 172.24.0.2 on port 1883.
+1654418135: New client connected from 172.24.0.2 as serverIn (p2, c1, k60).
+1654419152: New connection from 172.24.0.1 on port 1883.
+1654419152: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654419152: New connection from 172.24.0.1 on port 1883.
+1654419152: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654419220: New connection from 172.24.0.1 on port 1883.
+1654419220: Client TFG_12669669 already connected, closing old connection.
+1654419220: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654419242: New connection from 172.24.0.1 on port 1883.
+1654419242: Client TFG_12669669 already connected, closing old connection.
+1654419242: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654419258: New connection from 172.24.0.1 on port 1883.
+1654419258: Client TFG_8190270 already connected, closing old connection.
+1654419258: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654419259: Socket error on client TFG_12669669, disconnecting.
+1654419259: New connection from 172.24.0.1 on port 1883.
+1654419259: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654419269: New connection from 172.24.0.1 on port 1883.
+1654419269: Client TFG_8190270 already connected, closing old connection.
+1654419269: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654419283: New connection from 172.24.0.1 on port 1883.
+1654419283: Client TFG_8190270 already connected, closing old connection.
+1654419283: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654419306: Client TFG_8190270 has exceeded timeout, disconnecting.
+1654419307: Client TFG_12669669 has exceeded timeout, disconnecting.
+1654419573: New connection from 172.24.0.1 on port 1883.
+1654419573: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654419584: New connection from 172.24.0.1 on port 1883.
+1654419584: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654419594: New connection from 172.24.0.1 on port 1883.
+1654419594: Client TFG_8190270 already connected, closing old connection.
+1654419594: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654419646: Client TFG_8190270 has exceeded timeout, disconnecting.
+1654419709: New connection from 172.24.0.1 on port 1883.
+1654419709: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1654419722: New connection from 172.24.0.2 on port 1883.
+1654419722: New client connected from 172.24.0.2 as serverOut (p2, c1, k60).
+1654419728: New connection from 172.24.0.1 on port 1883.
+1654419728: Client TFG_3329101 already connected, closing old connection.
+1654419728: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1654419929: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654419956: New connection from 172.24.0.1 on port 1883.
+1654419956: Client TFG_3329101 already connected, closing old connection.
+1654419956: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1654419996: Client TFG_3329101 has exceeded timeout, disconnecting.
+1654420245: New connection from 172.24.0.1 on port 1883.
+1654420245: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1654420559: Socket error on client TFG_12669669, disconnecting.
+1654420559: Socket error on client TFG_3329101, disconnecting.
+1654420989: New connection from 172.24.0.1 on port 1883.
+1654420989: New client connected from 172.24.0.1 as TFG_3329101 (p2, c1, k15).
+1654421396: New connection from 172.24.0.1 on port 1883.
+1654421396: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654421399: New connection from 172.24.0.1 on port 1883.
+1654421399: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421445: New connection from 172.24.0.1 on port 1883.
+1654421445: Client TFG_8190270 already connected, closing old connection.
+1654421445: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421567: New connection from 172.24.0.1 on port 1883.
+1654421567: Client TFG_8190270 already connected, closing old connection.
+1654421567: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421603: New connection from 172.24.0.1 on port 1883.
+1654421603: Client TFG_8190270 already connected, closing old connection.
+1654421603: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421615: New connection from 172.24.0.1 on port 1883.
+1654421615: Client TFG_8190270 already connected, closing old connection.
+1654421615: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421691: New connection from 172.24.0.1 on port 1883.
+1654421691: Client TFG_8190270 already connected, closing old connection.
+1654421691: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421726: New connection from 172.24.0.1 on port 1883.
+1654421726: Client TFG_8190270 already connected, closing old connection.
+1654421726: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421730: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654421756: Socket error on client TFG_8190270, disconnecting.
+1654421756: New connection from 172.24.0.1 on port 1883.
+1654421756: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421784: Client TFG_12669669 has exceeded timeout, disconnecting.
+1654421804: New connection from 172.24.0.1 on port 1883.
+1654421804: Client TFG_8190270 already connected, closing old connection.
+1654421804: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421860: New connection from 172.24.0.1 on port 1883.
+1654421860: Client TFG_8190270 already connected, closing old connection.
+1654421860: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421876: New connection from 172.24.0.1 on port 1883.
+1654421876: Client TFG_8190270 already connected, closing old connection.
+1654421876: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654421914: Client TFG_8190270 has exceeded timeout, disconnecting.
+1654422160: New connection from 172.24.0.1 on port 1883.
+1654422160: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654422186: New connection from 172.24.0.1 on port 1883.
+1654422186: Client TFG_8190270 already connected, closing old connection.
+1654422186: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654422760: New connection from 172.24.0.1 on port 1883.
+1654422760: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654422856: New connection from 172.24.0.1 on port 1883.
+1654422856: Client TFG_12669669 already connected, closing old connection.
+1654422856: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654423365: New connection from 172.24.0.1 on port 1883.
+1654423365: Client TFG_12669669 already connected, closing old connection.
+1654423365: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654423465: New connection from 172.24.0.1 on port 1883.
+1654423465: New client connected from 172.24.0.1 as TFG_12584192 (p2, c1, k15).
+1654423488: New connection from 172.24.0.1 on port 1883.
+1654423488: Client TFG_12584192 already connected, closing old connection.
+1654423488: New client connected from 172.24.0.1 as TFG_12584192 (p2, c1, k15).
+1654423514: Client TFG_8190270 has exceeded timeout, disconnecting.
+1654423520: New connection from 172.24.0.1 on port 1883.
+1654423520: Client TFG_12669669 already connected, closing old connection.
+1654423520: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654423521: New connection from 172.24.0.1 on port 1883.
+1654423521: Client TFG_12584192 already connected, closing old connection.
+1654423521: New client connected from 172.24.0.1 as TFG_12584192 (p2, c1, k15).
+1654423531: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1654423598: New connection from 172.24.0.1 on port 1883.
+1654423598: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654423695: Client TFG_12584192 has exceeded timeout, disconnecting.
+1654423699: New connection from 172.24.0.1 on port 1883.
+1654423699: New client connected from 172.24.0.1 as TFG_12584192 (p2, c1, k15).
+1654423711: Client TFG_8190270 has exceeded timeout, disconnecting.
+1654423712: New connection from 172.24.0.1 on port 1883.
+1654423712: Client TFG_12669669 already connected, closing old connection.
+1654423712: New client connected from 172.24.0.1 as TFG_12669669 (p2, c1, k15).
+1654423721: Client TFG_12584192 has exceeded timeout, disconnecting.
+1654423726: New connection from 172.24.0.1 on port 1883.
+1654423726: New client connected from 172.24.0.1 as TFG_12584192 (p2, c1, k15).
+1654423928: New connection from 172.24.0.1 on port 1883.
+1654423928: New client connected from 172.24.0.1 as TFG_8190270 (p2, c1, k15).
+1654424138: Socket error on client TFG_8190270, disconnecting.
+1654424138: Socket error on client TFG_3329101, disconnecting.
+1654424138: Socket error on client TFG_12669669, disconnecting.
+1654424138: Socket error on client TFG_12584192, disconnecting.
+1654424142: mosquitto version 1.6.15 terminating
+1654424142: Saving in-memory database to /mosquitto/data/mosquitto.db.

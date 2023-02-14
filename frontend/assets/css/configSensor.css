@@ -1,0 +1,13 @@
+
+.device:hover{
+    cursor: pointer;
+}
+
+#lightLimits{
+    display: flex;
+}
+
+#lightLimits input{
+    width:50%;
+    margin: 1%;
+}

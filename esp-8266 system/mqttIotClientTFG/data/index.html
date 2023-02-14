@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <!--=============== CSS ===============-->
+    <link rel="stylesheet" href="style.css">
+
+
+    <title>Configuracion Inicial</title>
+</head>
+
+<body>
+   
+    <main class="main">
+
+
+        <!--==================== CREATE NEWS ====================-->
+        <section class="section category">
+  
+            <h1 id="tituloPagina" class="section__title">Configuracion Inicial</h1>
+            
+
+            <form action="/sendInfo" method="post">
+                <div class="container ">
+                    <div class="bodyTitle"><a>SSID</a></div>
+                    <div class="input-box">
+                        <select id="ssid" name="ssid"> 
+                          <option value="wifi1">Wifi 1</option>
+                          <option value="wifi2">Wifi 2</option>
+
+                        </select>
+                    </div>
+                    <div class="input-text">
+                        <a id ="warning" style="color: blanchedalmond"></a>
+                    </div>
+                    <div class="input-text" >
+                        <div id ="loading" ></div>
+                    </div>
+                    <div class="bodyTitle"><a>Password</a></div>
+                    <div class="input-box">
+
+                        <input id="password" type="password" name="password" placeholder="Enter the password" required></input>
+                    </div>
+                    <div class="bodyTitle"><a>Mqtt Server Ip (XXX.XXX.XXX.XXX)</a></div>
+                    <div class="input-box">
+
+                        <input id="mqttIp" type="text" name="mqttIp" placeholder="Enter the Ip" required></input>
+                    </div>
+                    <div class="input-text">
+                        <a id ="warningBody" style="color: blanchedalmond"></a>
+                    </div>
+
+                    <div class="bodyTitle"><a>TIpo de disposivo</a></div>
+                    <div class="input-box">
+                        <select id="tipo" name ="tipo"> 
+                          <option value="1">Dispositivo On/Off</option>
+                          <option value="2">Persiana</option>
+                          <option value="3">Interruptor para dispositivo On/Off</option>
+                          <option value="4">Interruptor para persiana</option>
+                          <option value="5">Sensor Luminico para dispositivo On/Off</option>
+                        </select>
+                    </div>
+                    <div class="bodyTitle"><a>Configuration Type</a></div>
+                    <div class="input-box">
+                       <select id="checkMqtt" name ="checkMqtt" onchange="chekMqttRoutes()"> 
+                        <option value="smart" selected>Smart</option>
+                        <option value="manual">Manual</option>
+                      </select>
+                    </div>
+                    <div class="bodyTitle"><a>Mqtt Route Action</a></div>
+                    <div class="input-box">
+
+                        <input id="routeAction" type="text" name="routeAction" placeholder="Enter the route" disabled></input>
+                    </div>
+                    <div class="bodyTitle"><a>Mqtt Route Status</a></div>
+                    <div class="input-box">
+
+                        <input id="routeStatus" type="text" name="routeStatus" placeholder="Enter the route" disabled></input>
+                    </div>
+
+
+
+                    <div>
+                        <input id="submit" class="submit" type="submit" value="Aceptar">
+                    </div>
+
+                </div>
+            </form>
+
+        </section>
+
+        <script>
+          
+
+window.addEventListener('load', async (e) => {
+    var myHeaders = new Headers();
+
+    var formdata = new FormData();
+    var requestOptions = {
+        method: 'GET',
+        redirect: 'follow'
+    };
+
+    fetch("/getWifiAvaliable", requestOptions)
+        .then(function (response){
+            return response.json();
+        })
+        .then(function (data){
+            let html='';
+          
+            data.forEach(function (wifi){
+                html +=`
+                <option value="${wifi}">${wifi}</option>
+                `;
+            })
+            document.getElementById('ssid').innerHTML =html;
+        })
+        .catch(error => console.log('error', error));
+
+
+});
+
+function chekMqttRoutes(){
+        if(document.getElementById('checkMqtt').value=="smart"){
+            document.getElementById('routeAction').disabled =true;
+            document.getElementById('routeStatus').disabled=true;
+        }else{
+            document.getElementById('routeAction').disabled =false;
+            document.getElementById('routeStatus').disabled=false;
+        }
+        console.log('hola')
+};
+        </script>
+
+
+
+
+</body>
+
+</html>

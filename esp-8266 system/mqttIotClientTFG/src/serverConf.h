@@ -1,0 +1,14 @@
+
+
+void setServer();
+void setWifiAPMODE();
+
+//------- MACROS HTTP_POST
+
+#define POST_SSID 0
+#define POST_PASSWORD 1
+#define POST_MQTT_SERVER_IP 2
+#define POST_DEVICE_TYPE 3
+#define POST_CONFIGRUATION_TYPE 4
+#define POST_MQTT_ROUTE_MOVE 5
+#define POST_MQTT_ROUTE_STATUS 6

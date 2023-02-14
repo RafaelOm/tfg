@@ -1,0 +1,13 @@
+com\tfg\rom\utils\Constants.class
+com\tfg\rom\entity\Device.class
+com\tfg\rom\configuration\mqttBeans.class
+com\tfg\rom\controller\DeviceController.class
+com\tfg\rom\repository\DeviceRepository.class
+com\tfg\rom\configuration\mqttGateway.class
+com\tfg\rom\Exception\DeviceNotFoundAdvice.class
+com\tfg\rom\Exception\DeviceNotFoundException.class
+com\tfg\rom\sqliteDialect\SQLDialect.class
+com\tfg\rom\configuration\mqttBeans$1.class
+com\tfg\rom\DomoApiRestApplication.class
+com\tfg\rom\service\DeviceService.class
+com\tfg\rom\utils\utils.class
